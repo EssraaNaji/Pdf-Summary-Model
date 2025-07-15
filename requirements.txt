@@ -1,0 +1,8 @@
+"""
+file requirements.txt
+AI Service Requirements
+This file lists the dependencies required for the AI service application.
+"""
+
+fastapi==0.95.2
+cohere==4.0.0
