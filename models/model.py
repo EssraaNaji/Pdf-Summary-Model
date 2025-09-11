@@ -1,3 +1,3 @@
 """
-Data models for PDFs Summarization and Questions & Answers.
+Data models for PDFs Summarization .
 """
